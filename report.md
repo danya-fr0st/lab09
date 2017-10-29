@@ -18,7 +18,7 @@ $ open https://cmake.org/Wiki/CMake:CPackPackageGenerators
 Устанавливаем значения GITHUB_USERNAME и GITHUB_EMAIL, настраиваем текстовый редактор, определяем команду
 ```ShellSession
 $ export GITHUB_USERNAME=danya-fr0st # Присваиваем значение переменной GITHUB_USERNAME
-$ export GITHUB_EMAIL=*******************@yandex.ru # Присваиваем значение переменной GITHUB_EMAIL
+$ export GITHUB_EMAIL=trayt32@yandex.ru # Присваиваем значение переменной GITHUB_EMAIL
 $ alias edit=nano # Выбираем текстовый редактор 
 $ alias gsed=sed # Указываем, что gsed выполняет то же самое, что и sed
 ```
